@@ -22,13 +22,13 @@ Live site URL: [https://otavio-fina.github.io/react-github-perfil-finder/](https
 
 ### Deselvolvido com:
 
-- ![HTML](/img_readme/Tech-Stack-Logos/html.png)
+- ![HTML](/img_readme/Tech-Stack-Logos/html5.png)
 - ![CSS](/img_readme/Tech-Stack-Logos/css.png)
 - ![JAVASCRIPT](/img_readme/Tech-Stack-Logos/js.png)
 - ![REACT](/img_readme/Tech-Stack-Logos/reactjs.png)
 - ![GIT](/img_readme/Tech-Stack-Logos/git.png)
 - ![GITHUB](/img_readme/Tech-Stack-Logos/gitlab.png)
-- ![VITE](/img_readme/Tech-Stack-Logos/vitejs)
+- ![VITE](/img_readme/Tech-Stack-Logos/vitejs.png)
 
 
 ### O que eu aprendi
