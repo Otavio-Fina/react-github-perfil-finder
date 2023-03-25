@@ -25,7 +25,7 @@ const User = ({login, avatar_url, followers, following, location}: UserProps) =>
                     <p className={classes.number}>{following}</p>
                 </div>
             </div>
-            <Link to={`https://github.com/${login}?tab=repositories`}>Ver melhores projetos</Link>
+            <a href={`https://github.com/${login}?tab=repositories`}>Ver melhores projetos</a>
         </div>
     )
 }
