@@ -19,7 +19,8 @@ const router = createBrowserRouter([
       }
     ]
   }
-])
+  
+],{ basename : "/react-github-perfil-finder" })
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
