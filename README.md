@@ -14,7 +14,7 @@ Um SPA feito em React e Typescript, integrando uma API do Github onde o nome de 
 
 ## Links
 
-Live site URL: [https://otavio-fina.github.io/react-github-perfil-finder/](https://otavio-fina.github.io/react-github-perfil-finder/)
+Live site URL: [https://otavio-fina.github.io/react-github-perfil-finder/](https://otavio-fina.github.io/react-github-perfil-finder/dist)
 
 
 
